@@ -1,0 +1,9 @@
+{
+  "hotkeys": {
+    "right_click": "1",
+    "left_click": "2",
+    "idle": "0",
+    "quit": "q"
+  },
+  "delay": 0.1
+}
